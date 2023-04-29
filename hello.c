@@ -15,5 +15,3 @@ int main(void)
   //Step ( 2 ) : Print Hello, Your Name
 
 
-int main (void)
-printf(")

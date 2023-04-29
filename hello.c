@@ -4,8 +4,10 @@
 int main(void)
   // Step ( 1 ) : Print Hello, World
  {
+int x = get_int("X:   ");
+int y = get_int("Y:   ");
 
-  pritf("hello,world\n");
+  printf("%i\n",x+y);
 
  }
 
